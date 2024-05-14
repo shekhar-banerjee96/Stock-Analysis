@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "C:/Users/HP-PC/anaconda3/envs/finance/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "python.languageServer": "Pylance",
+    "notebook.output.linkifyFilePaths": true,
+    "notebook.output.textLineLimit": 100
+    
+}
